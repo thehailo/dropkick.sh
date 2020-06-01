@@ -15,10 +15,10 @@ stay and disconnect them in turn. It’s based on glasshole.sh. It should do awa
 with the need to rummage around in other people’s stuff, racked with paranoia,
 looking for the things.
 
-Thanks to [http://ahprojects.com](Adam Harvey) for giving me the push, not to mention for naming it.
+Thanks to [http://ahprojects.com] (Adam Harvey) for giving me the push, not to mention for naming it.
 
 For a plug-and-play solution in the form of a network appliance, see
-[https://plugunplug.net](Cyborg Unplug).
+[https://plugunplug.net] (Cyborg Unplug).
 
 Disclaimer
 ---------
@@ -37,5 +37,3 @@ definition. It’s worth noting here that all wireless routers necessarily ship
 with the ability to de-auth, as part of the 802.11 specification.
 
 All said, use of this script is at your own risk. Use with caution.
- 
-    
